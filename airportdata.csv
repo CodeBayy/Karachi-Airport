@@ -1,0 +1,12 @@
+s.no,        Airline,           Plane_Model,         Destination,              Timing
+----,        -------,           -----------,         -------,              -------------
+1,           Shaheen,           SHN489,              Lahore,               11:00 to 1:00
+2,           PIA,               PIAA15,              Lahore,               7:00 to 10:00
+3,           PIA,               PIA5BC,              Karachi,              12:00 to 2:00
+4,           Jinnah,            JIND5G,              Balochistan,          8:00 to 10:00
+5,           PIA,               PIA825,              Peshawar,             3:00 to 5:00
+6,           Jinnah,            JIN5BC,              Karachi,              12:00 to 2:00
+7,           Shaheen,           SHNA15,              Lahore,               7:00 to 10:00
+8,           Airblue,           BLU825,              Peshawar,             3:00 to 5:00
+9,           Airblue,           BLUD5G,              Balochistan,          8:00 to 10:00
+10,          Serena,            SEr489,              Lahore,               11:00 to 1:00
